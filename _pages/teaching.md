@@ -2,11 +2,23 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: my experiences as a teacher assistant.
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## Course 1
+- **Course Name**: Machine learning
+- **Year**: 2022
+- **Professor Name**: [Prof x](https://ai-shinigami.github.io/)
+- **Duties**:
+  - helping students with their homeworks
+  - [Duty 2]
+  
 
-Organize your courses by years, topics, or universities, however you like!
+## Course 2
+- **Course Name**: Deep learning
+- **Year**: 2021
+- **Professor Name**: [Prof y](https://ai-shinigami.github.io/)
+- **Duties**:
+  - [Duty 1]
