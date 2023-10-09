@@ -90,9 +90,15 @@
         - Visual Neuroscience
         - using machine learning to discover how the brain works
     - title: Deep learning theory
-        
+
+- title: Languages
+  type: nested_list
+  contents:
+    - title: "Persian: Native"
+    - title: "English: Fluent"
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Movies.
+    - Chess
