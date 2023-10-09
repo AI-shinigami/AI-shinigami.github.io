@@ -17,9 +17,9 @@
       institution: University of Amirkabir, Tehran, Iran
       year: 2020 - 2023
       description:
-        - GPA":" 3.7 / 4
+        - "GPA: 3.7 / 4"
         - Supervisor":" Prof X
-        - title: thesis title":" Generative AI models 
+        - title: "thesis title: Generative AI models "
           contents:
             - I worked on generative models including GANs.
             - based on my thesis I published an article
@@ -27,16 +27,16 @@
       institution: University of Amirkabir, Tehran, Iran
       year: 2016 - 2020
       description:
-        - GPA":" 3.5 / 4
+        - "GPA: 3.5 / 4"
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Machine learning researcher
+      institution: DIVAR
+      year: 2021 - 2022
       description:
-        - Description 1.
+        - I worked with different frameworks including PyTorch and TensorFlow
         - Description 2.
         - title: Description 3.
           contents:
@@ -53,14 +53,6 @@
       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
       year: 1917-1933
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
 
 - title: Open Source Projects
   type: time_table
@@ -68,6 +60,9 @@
     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
       year: 2015-now
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+    - title: <a href="https://ai-shinigami.github.io/">my website</a>
+    - year: 2023
 
 - title: Honors and Awards
   type: time_table
