@@ -6,7 +6,6 @@ inline: false
 related_posts: false
 ---
 
-# New Beginnings as a Machine Learning Researcher
 
 I am thrilled to announce that I have recently joined the esteemed University of Tehran as a Machine Learning Researcher. This exciting new chapter in my academic journey marks a significant milestone in my commitment to advancing the field of artificial intelligence.
 
