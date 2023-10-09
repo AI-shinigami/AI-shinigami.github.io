@@ -1,12 +1,14 @@
-- title: General Information
+- title: Information
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
+    - name: Name
+      value: Soroush
     - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: 14th March 1998
+    - name: phone number
+      value: +98 935 1111111
+    - name: address
+      value: Tehran, Iran
 
 - title: Education
   type: time_table
