@@ -62,7 +62,7 @@
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
     - title: <a href="https://ai-shinigami.github.io/">my website</a>
-    - year: 2023
+      year: 2023
 
 - title: Honors and Awards
   type: time_table
@@ -78,14 +78,19 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Generative AI
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - GANs
+        - Diffusion models
+    - title: adversarial robustness
       items:
-        - Description 1.
-        - Description 2.
+        - adversarial training
+    - title: Computational neuroscience
+      items: 
+        - Visual Neuroscience
+        - using machine learning to discover how the brain works
+    - title: Deep learning theory
+        
 
 - title: Other Interests
   type: list
