@@ -13,22 +13,21 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: MSc in AI
+      institution: University of Amirkabir, Tehran, Iran
+      year: 2020 - 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - GPA":" 3.7 / 4
+        - Supervisor":" Prof X
+        - title: thesis title":" Generative AI models 
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - I worked on generative models including GANs.
+            - based on my thesis I published an article
+    - title: BSc in CE
+      institution: University of Amirkabir, Tehran, Iran
+      year: 2016 - 2020
       description:
-        - Description 1.
-        - Description 2.
+        - GPA":" 3.5 / 4
 
 - title: Experience
   type: time_table
