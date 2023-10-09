@@ -18,8 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-# About Me
-
 Hello! I'm Soroush, an enthusiastic and independent researcher in the field of Artificial Intelligence (AI). With a strong educational background and a passion for advancing AI technology, I am actively seeking opportunities to pursue a Ph.D. to further contribute to the exciting world of AI research.
 
 ## Education
